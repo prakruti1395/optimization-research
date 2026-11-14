@@ -1,0 +1,13 @@
+{
+ "sessions": 236,
+ "courses": 36,
+ "teachers": 13,
+ "current": 74.0,
+ "greedy": 76.0,
+ "plain": 72.0,
+ "final": 72.0,
+ "clash_plain": 22,
+ "clash_greedy": 35,
+ "moved": 1,
+ "lp": 72.0
+}
