@@ -1,0 +1,13 @@
+# requirements.txt
+# Third-party packages required by the Teacher-Course Assignment Optimizer project.
+# Scanned from: app.py, core/auth.py, core/cost_matrix.py, core/data_loader.py,
+#               core/hungarian.py, core/validator.py, core/suitability.py,
+#               core/comparator.py, core/simulation.py, core/genetic_algorithm.py,
+#               core/milp.py, core/exporter.py
+
+streamlit>=1.66.1
+pandas>=3.0.5
+numpy>=2.5.3
+scipy>=1.18.1
+matplotlib>=3.11.2
+openpyxl>=3.1.5
